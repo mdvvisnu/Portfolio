@@ -1,0 +1,90 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K Vishnu - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            width: 60%;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        header {
+            background: #0073e6;
+            color: white;
+            padding: 20px;
+            border-radius: 10px 10px 0 0;
+        }
+        h1, h2 {
+            margin-bottom: 10px;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+        }
+        section {
+            margin: 20px 0;
+            padding: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background: #0073e6;
+            color: white;
+            display: inline-block;
+            padding: 8px 15px;
+            margin: 5px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>K Vishnu</h1>
+            <p>Contact: 6369865089 | Email: <a href="mailto:mdvvishnu@gmail.com">mdvvishnu@gmail.com</a></p>
+        </header><section id="objective">
+        <h2>Objective</h2>
+        <p>To work and succeed in a stimulating and challenging environment, building the success of the company while I experience advancement opportunities.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Java</li>
+            <li>Python</li>
+            <li>Data Science</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>BSc</strong> - Madras University (2026)</p>
+    </section>
+
+    <section id="personal-info">
+        <h2>Additional Personal Info</h2>
+        <p><strong>Address:</strong> Village: Pudi, Post: Karur, Sub District: Tada, District: Tirupati, State: Andhra Pradesh, PIN Code: 524401</p>
+        <p><strong>Languages:</strong> English, Tamil</p>
+        <p><strong>Date of Birth:</strong> 28/08/2005</p>
+        <p><strong>Marital Status:</strong> Single</p>
+        <p><strong>Nationality:</strong> Indian</p>
+        <p><strong>Religion:</strong> BC</p>
+        <p><strong>Gender:</strong> Male</p>
+    </section>
+</div>
+
+</body>
+</html>
